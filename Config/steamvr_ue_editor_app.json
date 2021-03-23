@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.puppets1_project-15228867.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Connor/Documents/UnrealProjects/Puppets1_project/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Puppets1_project-15228867 [UE Editor]"
+				}
+			}
+		}
+	]
+}
